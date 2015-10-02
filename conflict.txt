@@ -1,3 +1,6 @@
-git is very useful.
-
+<<<<<<< HEAD
+=======
+git is so-so at conflict resolution.  I think.  Let's see if I'm right.
+>>>>>>> 32315fb... This time I added a line on conflict resolution
 please keep your line here:
+git is very useful.
